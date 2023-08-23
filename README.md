@@ -30,3 +30,4 @@
   <li align="left">✔️ Bus</li>
   <li align="left">✔️ Starkbucks ☕</li>
 </ul>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/LccsBueno/github-readme-stats)
