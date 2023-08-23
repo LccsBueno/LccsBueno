@@ -30,4 +30,7 @@
   <li align="left">✔️ Bus</li>
   <li align="left">✔️ Starkbucks ☕</li>
 </ul>
-[![Top Langs](https://github-readme-stats.vercel.app/api?username=LccsBueno&theme=algolia&show_icons=true)](https://github.com/LccsBueno)
+<p align="left">
+  <img width="400em" src="https://github-readme-stats.vercel.app/api?username=LccsBueno&show_icons=true&theme=vision-friendly-dark" alt="LccsBueno's     stats"/> <br>
+  <img width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LccsBueno&layout=compact&theme=vision-friendly-dark"             alt="LccsBueno's most languages"/>
+</p>
