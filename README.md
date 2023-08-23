@@ -25,8 +25,8 @@
 
 <h3 align="right">Places I've been coding 👨🏻‍💻:</h3>
 <ul>
-  <li align="right">✔️ Home</li>
-  <li align="right">✔️ School</li>
-  <li align="right">✔️ Bus</li>
-  <li align="right">✔️ Starkbucks ☕</li>
+  <li align="left">✔️ Home</li>
+  <li align="left">✔️ School</li>
+  <li align="left">✔️ Bus</li>
+  <li align="left">✔️ Starkbucks ☕</li>
 </ul>
