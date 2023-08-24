@@ -31,6 +31,6 @@
   <li align="left">✔️ Starkbucks ☕</li>
 </ul>
 <p align="left">
-  <img width="400em" src="https://github-readme-stats.vercel.app/api?username=LccsBueno&show_icons=true&theme=vision-friendly-dark" alt="LccsBueno's     stats"/> <br>
-  <img width="400em" src="https://github-readme-stats.vercel.app/api/top-langs?username=LccsBueno&hide=html,scss,stylus,blade,jupyter%20notebook,python,css,shell,batchfile,dockerfile,typescript&theme=algolia&show_icons=true" alt="LccsBueno's most languages"/>
+  <img width="400em" src="https://github-readme-stats.vercel.app/api?username=LccsBueno&show_icons=true&theme=algolia" alt="LccsBueno's     stats"/> <br>
+  <img width="400em" src="https://github-readme-stats.vercel.app/api/top-langs?username=LccsBueno&hide=stylus,blade,jupyter%20notebook,shell,batchfile,dockerfile,typescript&theme=algolia&show_icons=true" alt="LccsBueno's most languages"/>
 </p>
