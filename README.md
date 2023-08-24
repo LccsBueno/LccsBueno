@@ -32,5 +32,5 @@
 </ul>
 <p align="left">
   <img width="400em" src="https://github-readme-stats.vercel.app/api?username=LccsBueno&show_icons=true&theme=vision-friendly-dark" alt="LccsBueno's     stats"/> <br>
-  <img width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LccsBueno&layout=compact&theme=vision-friendly-dark"             alt="LccsBueno's most languages"/>
+  <img width="400em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=LccsBueno"             alt="LccsBueno's most languages"/>
 </p>
