@@ -25,7 +25,10 @@
   <li align="left">✔️ Bus</li>
   <li align="left">✔️ Starkbucks ☕</li>
 </ul>                
-<div style="display: flex;">
+<div style="
+    display: flex;
+    flex-direction: row;
+">
   <img width="400em" src="https://github-readme-stats.vercel.app/api?username=LccsBueno&show_icons=true&theme=algolia" alt="LccsBueno's     stats"/> <br>
   <img width="400em" src="https://github-readme-stats.vercel.app/api/top-langs?username=LccsBueno&hide=stylus,blade,jupyter%20notebook,shell,batchfile,dockerfile,typescript&theme=algolia&show_icons=true" alt="LccsBueno's most languages"/>
 </div>
