@@ -3,7 +3,7 @@
 
 - 📫 How to reach me **luccasbueno2003@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:</h3> <h3 align="right">Bom dia Roberto</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/luccas-bueno-766b951b0/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Luccas Bueno" height="30" width="40" /></a>
 </p>
@@ -25,7 +25,7 @@
   <li align="left">✔️ Bus</li>
   <li align="left">✔️ Starkbucks ☕</li>
 </ul>                
-<p flex-direction="row">
+<div style="display: flex;">
   <img width="400em" src="https://github-readme-stats.vercel.app/api?username=LccsBueno&show_icons=true&theme=algolia" alt="LccsBueno's     stats"/> <br>
   <img width="400em" src="https://github-readme-stats.vercel.app/api/top-langs?username=LccsBueno&hide=stylus,blade,jupyter%20notebook,shell,batchfile,dockerfile,typescript&theme=algolia&show_icons=true" alt="LccsBueno's most languages"/>
-</p>
+</div>
