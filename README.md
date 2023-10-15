@@ -18,12 +18,12 @@
   <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
   <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> </p>
 
-<h3 align="center">Places I've been coding 👨🏻‍💻:</h3>
+<h3 align="left">Places I've been coding 👨🏻‍💻:</h3>
 <ul>
-  <li align="center">✔️ Home</li>
-  <li align="center">✔️ School</li>
-  <li align="center">✔️ Bus</li>
-  <li align="center">✔️ Starkbucks ☕</li>
+  <li align="left">✔️ Home</li>
+  <li align="left">✔️ School</li>
+  <li align="left">✔️ Bus</li>
+  <li align="left">✔️ Starkbucks ☕</li>
 </ul>                
 <div align="center">
   <img width="400em" src="https://github-readme-stats.vercel.app/api?username=LccsBueno&show_icons=true&theme=algolia" alt="LccsBueno's stats"/> <br>
